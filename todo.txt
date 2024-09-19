@@ -1,0 +1,17 @@
+1. To create gui, developement process will using pythin consile
+2. Wrap final code in Exe file, so PC without python environment can run the program can run this
+3. Integrate the program with excel
+4. In python ui, add exception handling to catch user input incorrect crane and mast db name
+5. Add db for climbing cage
+6. Add db for foundation (base ballast)
+7. ** A new tools window to let user convert db to pandas and excel
+8. ** Add db for anchorage
+9. ** Add db for all crane components
+10. * Add a menu for main window, 
+11. * Add a button to enable user to delete specific jib length from crane db
+12. Show Crane db (jib length table), mast db that have created
+13. Unit of value to be input 
+
+- Not solve: 
+    - When user input create submit button in crane db, the program will close it self, need to return to main window
+
